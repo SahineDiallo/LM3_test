@@ -1,0 +1,1 @@
+[{"model": "transaction.categorie", "pk": "03589ce1-206e-4be3-aa9a-f6834ba559bd", "fields": {"name": "Remboursement"}}, {"model": "transaction.categorie", "pk": "e643e9cf-1be5-42f9-ab2b-75cdbf5a7768", "fields": {"name": "Depot"}}, {"model": "transaction.categorie", "pk": "f79f0edf-41c0-4265-b1c6-9bea5284de5b", "fields": {"name": "Paiement"}}]
